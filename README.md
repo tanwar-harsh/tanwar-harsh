@@ -19,7 +19,6 @@ My name is Harsh Tanwar and I am a programmer and web developer from Delhi, Indi
 </p>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luffyguy&layout=compact&theme=radical">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luffyguy&layout=compact&theme=radical">
 
 ---
 ### Github stats

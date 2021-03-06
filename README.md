@@ -30,11 +30,12 @@ My name is Harsh Tanwar and I am a programmer and web developer from Delhi, Indi
 
  I am open for collaborations, so if you find my work interesting feel free to send me a message! Even if you don't, send me a message anyway! Here is where you can find me:
  <p>
-  <a href="harshtanwar25@gmail.com">
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWsTNJFvPwMGzbZZtSnvHMZvfcwwqpdlJDtlrRqrZLkzzMMVRPrxppQptlWGzMsRVxpHkjQQB">
   <img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge" />
   </a>
   <a href="linkedin.com/in/harsh-tanwar-22761017b">
   <img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
  </p>
 
 

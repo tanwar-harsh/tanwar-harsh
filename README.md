@@ -18,12 +18,12 @@ My name is Harsh Tanwar and I am a programmer and web developer from Delhi, Indi
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/VS Code-007ACC?logo=Visual Studio Code&logoColor=white&style=for-the-badge" />
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luffyguy&layout=compact&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luffyguy&theme=dark&hide_langs_below=1">
 
 ---
 ### Github stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=luffyguy&count_private=true&title_color=FD9047&icon_color=FD9047&text_color=0C2233&custom_title=Harsh+Tanwar's+GitHub+Stats&show_icons=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=luffyguy&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
 
 ---
 ### Send me a message!

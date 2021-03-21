@@ -7,7 +7,7 @@ My name is Harsh Tanwar and I am a programmer and web developer from Delhi, Indi
 
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
-  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?logo= C++ &logoColor=white&style=for-the-badge" />
+  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=white&style=for-the-badge" />
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
@@ -15,7 +15,7 @@ My name is Harsh Tanwar and I am a programmer and web developer from Delhi, Indi
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
   <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
-  <img alt="Visual Studio Code" src="https://img.shields.io/badge/VS Code-007ACC?logo=Visual Studio Code&logoColor=white&style=for-the-badge" />
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </p>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luffyguy&theme=dark&hide_langs_below=1">

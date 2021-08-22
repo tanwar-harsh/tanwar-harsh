@@ -36,7 +36,7 @@ Portfolio Link : [https://portfolio-40f4a.web.app/]
   </a>
   <a href="https://www.linkedin.com/in/harsh-tanwar-22761017b">
   <img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
-  </a>
+  </a> 
  </p>
 
 

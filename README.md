@@ -1,4 +1,4 @@
-### Hi 👋, I'm Harrsh Tanwar
+### Hi 👋, I'm Harsh Tanwar
 
 🚀 **Software Engineer | Delhi**
 

@@ -1,7 +1,8 @@
-### Hi 👋, I'm Harrsh Tanwar  
-🚀 **Software Engineer | Delhi**  
+### Hi 👋, I'm Harrsh Tanwar
 
-Passionate about building scalable web applications and exploring cloud infrastructure. I enjoy working with modern web technologies and automating workflows.  
+🚀 **Software Engineer | Delhi**
+
+Passionate about building scalable web applications and exploring cloud infrastructure. I enjoy working with modern web technologies and automating workflows.
 
 <h2 align="left"></h2>
 

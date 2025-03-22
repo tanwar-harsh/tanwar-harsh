@@ -23,6 +23,7 @@ Passionate about building scalable web applications and exploring cloud infrastr
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
+<br>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="24" alt="javascript logo"  />
@@ -77,8 +78,6 @@ Passionate about building scalable web applications and exploring cloud infrastr
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
 </div>
-
-###
 
 <br clear="both">
 <h2 align="left"></h2>

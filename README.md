@@ -1,3 +1,5 @@
+![logo](coding_banner.gif)
+
 ### Hi 👋, I'm Harsh Tanwar
 
 🚀 **Software Engineer | Delhi**

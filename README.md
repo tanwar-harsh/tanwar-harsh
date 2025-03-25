@@ -12,7 +12,7 @@ Passionate about building scalable web applications and exploring cloud infrastr
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanwar-harsh&layout=compact&langs_count=5&theme=dracula&hide_border=true&hide_title=true" height="150" width="29%" alt="languages graph" />
-  <img src="https://streak-stats.demolab.com?user=tanwar-harsh&mode=weekly&theme=dracula&hide_border=true" height="150" alt="streak graph" width="33%" />
+  <img src="https://streak-stats.demolab.com?user=tanwar-harsh&mode=weekly&theme=dracula&hide_border=true" height="150" alt="❤️" width="33%" />
   <img src="https://github-readme-stats.vercel.app/api?username=tanwar-harsh&show_icons=true&theme=dracula&hide_border=true&hide_title=true&count_private=true" height="150" width="37%" alt="stats graph" />
 </div>
 

@@ -1,8 +1,12 @@
 ![logo](coding_banner.gif)
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=tanwar-harsh&label=Profile%20Views&color=0e75b6&style=for-the-badge&base=4231&label=🟢" alt="tanwar-harsh" />
+</p>
+
 ### Hi 👋, I'm Harsh Tanwar
 
-🚀 **Software Engineer | Delhi**
+🚀 **Software Engineer | Delhi** 
 
 Passionate about building scalable web applications and exploring cloud infrastructure. I enjoy working with modern web technologies and automating workflows.
 
@@ -20,7 +24,7 @@ Passionate about building scalable web applications and exploring cloud infrastr
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjNtdXczb3d1dm1iY29jeDg1bDB6cXJtczQ5bHMzYjAzcWpnMmhyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QSz4qjPPIkt2TWDd8N/giphy.gif"  />
 
 ###
 <br>
@@ -87,5 +91,11 @@ Passionate about building scalable web applications and exploring cloud infrastr
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tanwar-harsh/tanwar-harsh/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tanwar-harsh/tanwar-harsh/output/github-snake.svg" />
 </picture>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/tanwar-harsh/count.svg?"  />
+</div>
 
 ###

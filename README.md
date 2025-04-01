@@ -93,9 +93,3 @@ Passionate about building scalable web applications and exploring cloud infrastr
 </picture>
 
 ###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/tanwar-harsh/count.svg?"  />
-</div>
-
-###

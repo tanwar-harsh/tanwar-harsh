@@ -107,7 +107,7 @@ Passionate about building scalable web applications and exploring cloud infrastr
   <img src="https://komarev.com/ghpvc/?username=tanwar-harsh&label=Profile%20Views&color=0e75b6&style=for-the-badge&base=4231&label=🟢" alt="tanwar-harsh" />
 </p>
 
-<img align="right" height="240" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTlpcWZ6cnRxZzhpcW1sNHMzcG9nb2J5eG1zNWs4aWZyandnajFrYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H5C8CevNMbpBqNqFjl/giphy.gif" />
+<img align="right" height="220" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTlpcWZ6cnRxZzhpcW1sNHMzcG9nb2J5eG1zNWs4aWZyandnajFrYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H5C8CevNMbpBqNqFjl/giphy.gif" />
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=39FF14&center=false&vCenter=true&width=650&lines=Code.+Debug.+Deploy.+Repeat.;Building+the+internet+one+commit+at+a+time.;Crafting+software+that+scales.;Where+logic+meets+creativity.)](https://git.io/typing-svg)

@@ -20,7 +20,7 @@ I love:
 🤖 Integrating AI into web applications  
 🚀 Turning ideas into production-ready software  
 
-For me, coding is more than problem-solving — it’s about **building tools that make life easier, smarter, and sometimes a bit more fun.**
+For me, coding is more than problem-solving, it’s about **building tools that make life easier, smarter, and sometimes a bit more fun.**
 
 <p align="center">
 
